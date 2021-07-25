@@ -11,7 +11,7 @@ date: "`Test`"
 |Mary|60|90|
 
 <font face="STKaiti" size = 7 color = "#FEF5F8" >
-  我是华文楷体
+  Qu'est-ce que c'est ?
 </font>
 
 ### Bonjour !
